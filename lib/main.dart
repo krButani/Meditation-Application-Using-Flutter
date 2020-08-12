@@ -311,7 +311,7 @@ class HeaderBackground extends StatelessWidget {
             height: 450,
             decoration: BoxDecoration(
               image: DecorationImage(
-                  image: AssetImage('assets/city.png'), fit: BoxFit.cover),
+                  image: AssetImage('assets/lights.jpg'), fit: BoxFit.cover),
             ),
           ),
         ),
